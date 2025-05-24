@@ -12,3 +12,9 @@ git add .   // sirve para agregar los archivos
 git status // sirve para saber el estado del la carga de los archivos
 
 habia una vez un patito que decia miau miau y queria un elotito con chilito
+
+git add .
+
+git commit -m "commit"
+
+git push origin main
