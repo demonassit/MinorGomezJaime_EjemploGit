@@ -7,4 +7,8 @@ git config --global user.name "demonassit"  //configurar el usuario que utilizar
 
 git config --global user.email "jminorg@ipn.mx" //comando para definir el correo del usuario
 
+git add .   // sirve para agregar los archivos
 
+git status // sirve para saber el estado del la carga de los archivos
+
+habia una vez un patito que decia miau miau y queria un elotito con chilito
