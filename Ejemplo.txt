@@ -1,0 +1,10 @@
+Vamos a crear un archivo de prueba
+Aqui les dejo los comandos que vamos a utilizar
+
+git init  //sirve para inicializar el proyecto
+
+git config --global user.name "demonassit"  //configurar el usuario que utilizara la cuenta
+
+git config --global user.email "jminorg@ipn.mx" //comando para definir el correo del usuario
+
+
